@@ -1,0 +1,18 @@
+{
+  "name": "ピカピカどうぶつえん",
+  "short_name": "ピカピカ",
+  "description": "どろんこの どうぶつを ゆびで ごしごし あらって ピカピカにする こども向けゲーム",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#7cc85a",
+  "theme_color": "#7fcdf3",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
